@@ -147,7 +147,9 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    /* background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    */
+    background: url(../img/boston.jpg);
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -261,11 +263,23 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.development-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/flower.jpg) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.development-content-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/field.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
