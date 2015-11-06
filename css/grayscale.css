@@ -59,6 +59,7 @@ a:focus {
 
 .light {
     font-weight: 400;
+    line-height: 150%;
 }
 
 .navbar-custom {
